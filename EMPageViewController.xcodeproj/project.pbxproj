@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		807922741C651DE90067DAD2 /* EMPageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 807922731C651DE90067DAD2 /* EMPageViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8079227B1C651DE90067DAD2 /* EMPageViewController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 807922701C651DE90067DAD2 /* EMPageViewController.framework */; };
 		807922801C651DE90067DAD2 /* EMPageViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8079227F1C651DE90067DAD2 /* EMPageViewControllerTests.swift */; };
 		8079228B1C651EE50067DAD2 /* EMPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8079228A1C651EE50067DAD2 /* EMPageViewController.swift */; };
@@ -25,7 +24,6 @@
 
 /* Begin PBXFileReference section */
 		807922701C651DE90067DAD2 /* EMPageViewController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EMPageViewController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		807922731C651DE90067DAD2 /* EMPageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EMPageViewController.h; sourceTree = "<group>"; };
 		807922751C651DE90067DAD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8079227A1C651DE90067DAD2 /* EMPageViewControllerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EMPageViewControllerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8079227F1C651DE90067DAD2 /* EMPageViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EMPageViewControllerTests.swift; sourceTree = "<group>"; };
@@ -73,7 +71,6 @@
 		807922721C651DE90067DAD2 /* EMPageViewController */ = {
 			isa = PBXGroup;
 			children = (
-				807922731C651DE90067DAD2 /* EMPageViewController.h */,
 				8079228A1C651EE50067DAD2 /* EMPageViewController.swift */,
 				807922751C651DE90067DAD2 /* Info.plist */,
 			);
@@ -96,7 +93,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				807922741C651DE90067DAD2 /* EMPageViewController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
