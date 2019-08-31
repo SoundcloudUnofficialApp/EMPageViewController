@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "EMPageViewController",
+        "repositoryURL": "https://github.com/SoundcloudUnofficialApp/EMPageViewController",
+        "state": {
+          "branch": null,
+          "revision": "550578cb24f2eae86a9f4f5485b1a278519eb6d9",
+          "version": "3.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
